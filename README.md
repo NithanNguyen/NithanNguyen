@@ -22,4 +22,4 @@ and embedded vision systems.
 🧠 Interests: ROS 2, NAVIGATION, SLAM
 📫 Reach me: npthienan257@gmail.com
 
-**Tech stack:** C/C++ · ROS 2 · Python
+**Tech stack:** C++ · ROS 2 · Python
