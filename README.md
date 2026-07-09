@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, I'm An 👋
+
+Computer Engineering student focused on autonomous mobile robots 
+and embedded vision systems.
+
+🔧 Currently working on: real-time visual object tracking on edge devices (Jetson Nano)  
+🧠 Interests: SLAM, ROS 2, NAVIGATION  
+📫 Reach me: your.email@example.com
+
+**Tech stack:** C/C++ · ROS 2 · Python
