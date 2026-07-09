@@ -20,6 +20,6 @@ and embedded vision systems.
 
 🔧 Currently working on: Autonomous Mobile Robots and Embedded Systems  
 🧠 Interests: ROS 2, NAVIGATION, SLAM
-📫 Reach me: your.email@example.com
+📫 Reach me: npthienan257@gmail.com
 
 **Tech stack:** C/C++ · ROS 2 · Python
