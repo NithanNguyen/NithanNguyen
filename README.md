@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 Computer Engineering student focused on autonomous mobile robots 
 and embedded vision systems.
 
-🔧 Currently working on: real-time visual object tracking on edge devices (Jetson Nano)  
-🧠 Interests: SLAM, ROS 2, NAVIGATION  
+🔧 Currently working on: Autonomous Mobile Robots and Embedded Systems  
+🧠 Interests: ROS 2, NAVIGATION, SLAM
 📫 Reach me: your.email@example.com
 
 **Tech stack:** C/C++ · ROS 2 · Python
