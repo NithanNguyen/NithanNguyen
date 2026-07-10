@@ -19,7 +19,7 @@ Computer Engineering student focused on autonomous mobile robots
 and embedded vision systems.
 
 🔧 Currently working on: Autonomous Mobile Robots and Embedded Systems  
-🧠 Interests: ROS 2, NAVIGATION, SLAM
+🧠 Interests: ROS 2, NAVIGATION, SLAM 
 📫 Reach me: an.nguyenphamthien05@gmail.com
 
 **Tech stack:** C++ · ROS 2 · Python
